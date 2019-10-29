@@ -1,6 +1,6 @@
 Livebox API
 ===========
-Best effort to APIfy Livebox router (Orange).
+Best effort to APIfy Livebox router (Jazztel).
 
 Status
 ======
